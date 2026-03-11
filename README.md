@@ -1,4 +1,4 @@
-![CI](https://github.com/maxim618/Online-Store-Website/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/maxim618/online-store-website/actions/workflows/ci.yml/badge.svg)
 
 # Online - Store - Website
 
